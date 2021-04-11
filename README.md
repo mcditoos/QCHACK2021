@@ -52,7 +52,7 @@ Next Turn Phase: - You have the next turn now, and try doing the steps from the 
 
 Please keep in mind that if the probability of the state 11 is zero, then the cat will die for sure.
 
-The youngsters who made the project successful are:
+The team who made the project successful are:
 
 1.    Gerardo Suarez
 2.    Ming-Tsung Wu
